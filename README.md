@@ -5,6 +5,7 @@ Este directorio contiene la política de privacidad de Restaurant Orders.
 ## Archivos
 
 - `index.html` - Página web con la política de privacidad completa
+- `terms.html` - Términos de Uso de la aplicación
 
 ## Hosting
 
